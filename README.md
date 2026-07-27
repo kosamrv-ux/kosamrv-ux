@@ -4,12 +4,14 @@ Full-stack software engineer focused on clearly scoped web, API, automation, and
 
 I’m currently available for one small remote project at a time:
 
+- technical diagnosis with reproduction notes, root-cause evidence, and a fix plan;
 - bug reproduction, fixes, and regression tests;
 - API endpoints and third-party integrations;
 - workflow and reporting automation;
 - responsive landing pages and internal tools.
 
 Scope, price, deadline, acceptance checks, and included revisions are agreed before implementation.
+Technical diagnosis starts at $75; implementation packages start at $150.
 
 [View service packages and public work samples](https://kosamrv-ux.github.io/portfolio/) ·
 [Send a project brief](https://github.com/kosamrv-ux/portfolio/issues/new?template=work-request.yml)
