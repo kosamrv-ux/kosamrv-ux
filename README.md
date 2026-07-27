@@ -18,6 +18,7 @@ Technical diagnosis starts at $75; implementation packages start at $150.
 
 ## Selected public build samples
 
+- [Technical diagnosis case study](https://github.com/kosamrv-ux/stockroom/blob/main/docs/diagnostic-samples/negative-adjustments.md) — reproducible API-contract defect, root cause, regression tests, and merged repair
 - [VendorShield](https://github.com/kosamrv-ux/vendorshield) — vendor risk monitoring with Go and ClickHouse
 - [Cashflow Pilot](https://github.com/kosamrv-ux/cashflow-pilot) — forecasting and budget workflows with Rails and React
 - [DocVault](https://github.com/kosamrv-ux/docvault) — managed identity and cloud deployment with TypeScript and Azure
